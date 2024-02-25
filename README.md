@@ -1,9 +1,5 @@
 # Weekly Challenge: Thirteen -
 
-  <a href="https://choosealicense.com/licenses/mit">
-  <img src="https://img.shields.io/badge/License-MIT-blue" />
-  </a>
-
 ## Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
   University of Utah
@@ -13,17 +9,16 @@
 
 ## Description
 
-  
+  The ORM E-Commerce Backend is a sophisticated application tailored for internet retail managers seeking to stay at the forefront of the industry. Utilizing an Object-Relational Mapping (ORM) approach, this backend solution seamlessly integrates with databases, offering a streamlined and efficient way to manage e-commerce operations. With Express.js as its foundation and employing the latest ORM technologies, it provides managers with powerful tools to enhance their company's competitiveness. From database connectivity to API functionality, this backend empowers managers to effortlessly handle crucial operations and ensure optimal performance for their e-commerce websites.
 
-## Table of Contents
+## Table of Contents 
 
-- [User Story](#user)
-- [Acceptance Criteria](#acceptance)
-- [License](#license)
-- [Links](#links)
-- [Contribution](#contribution)
-- [Screenshots](#screenshots)
-- [Contact Me](#contact)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [License](#license)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+  - [Contact Me](#contact-me)
 
 ## User Story
 
@@ -49,24 +44,22 @@
 
   This project is licensed under the terms of the MIT license.
   [License Information](https://choosealicense.com/licenses/mit)
-
-
-## Links
-
-  https://drive.google.com/file/d/1zIBVVfl2ILU7aVSPHD0stXXzPsuTyggX/view?usp=sharing 
-
-  https://github.com/TheKelsenator/tall-water-plant-13
-
-## Contribution
-
-  Github [TheKelsenator](https://github.com/TheKelsenator)
+  <br/>
+  <br/>
+  <a href="https://choosealicense.com/licenses/mit">
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  </a>
 
 ## Screenshots
 
  ![alt_text](./images/Screenshot%20(55).png)
- <br>
  ![alt_text](./images/Screenshot%20(56).png)
+
+## Links
+
+  * Application Video Link: https://drive.google.com/file/d/1zIBVVfl2ILU7aVSPHD0stXXzPsuTyggX/view?usp=sharing  
+  * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
 
 ## Contact Me
 
-  Email [km.okelley89@gmail.com](mailto:km.okelley89@gmail.com)
+  Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.
